@@ -1,0 +1,43 @@
+{
+  "name": "hello_world_package",
+  "version": "1.0.0",
+  "description": "A simple Hello World NPM package for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgelopezrivas/hello_world_package.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android"
+  ],
+  "author": "Jorge Lopez Rivas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgelopezrivas/hello_world_package/issues"
+  },
+  "homepage": "https://github.com/jorgelopezrivas/hello_world_package#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-native": "*",
+    "react": "*"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.14.2",
+    "metro-react-native-babel-preset": "^0.54.1"
+  }
+}
