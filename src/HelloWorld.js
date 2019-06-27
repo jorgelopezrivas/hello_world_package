@@ -2,7 +2,7 @@ import React from 'react';
 import { Text, View } from 'react-native';
 import PropTypes from 'prop-types';
 
-export default class HelloWorld extends React.PureComponent {
+class HelloWorld extends React.PureComponent {
     static propTypes = {
       name: PropTypes.string
     }
@@ -23,3 +23,5 @@ export default class HelloWorld extends React.PureComponent {
       );
     }
 }
+
+export default HelloWorld;
