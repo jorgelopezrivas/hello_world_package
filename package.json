@@ -27,9 +27,11 @@
   },
   "homepage": "https://github.com/jorgelopezrivas/hello_world_package#readme",
   "dependencies": {
-    "prop-types": "^15.7.2",
-    "react-native": "*",
-    "react": "*"
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "react-native": "^0.49.1",
+    "react": "^16.0.0-beta.5"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.2",
