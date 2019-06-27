@@ -2,6 +2,9 @@
 
 Steps I followed
 
+based on:
+https://www.freecodecamp.org/news/how-to-publish-a-react-native-component-to-npm-its-easier-than-you-think-51f6ae1ef850/
+
 1. mkdir hello_world_package
 2. cd into dir
 3. npm init and answer questions 
