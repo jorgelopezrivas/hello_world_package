@@ -1,3 +1,1 @@
-import HelloWorld from './src/HelloWorld';
-
-export { HelloWorld };
+export { default as HelloWorld } from './src/HelloWorld';
